@@ -1,0 +1,178 @@
+.bkg{
+    background-image: url("https://scontent.fcor11-1.fna.fbcdn.net/v/t1.6435-9/163178714_3821124001274923_3067181510834774786_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=QiGW7xQLAoMAX8Vd3Mn&_nc_oc=AQkwqKh_Rz_mW1aq9FjPN5JyxCHbOKAoCGfpsqlZCrg-EABDTmCv1Mf5SgEdScqFFBZnVzWahwMuk7UGy-a0GRZL&_nc_ht=scontent.fcor11-1.fna&oh=00_AT86S4zfY4UEkOvTAti6oK6dcssdDh-V2fwS7_B0lfXYeA&oe=63156016") ; 
+    background-size: cover;
+    background-attachment:fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position:fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    align-items: center;
+    background-color: transparent;
+    
+}
+.container {
+    display: flex;
+    justify-content:flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-top: 85px;
+    width: 445px; 
+    position: absolute;
+    right: 21%;
+    top:15%;
+    background-color:transparent;
+    
+}
+
+.error{
+ color: rgb(255, 0, 0);
+ background-color: rgb(19, 19, 19);
+ display: flex;
+ border-radius: 10px;
+ 
+}
+.form{
+    display: flex;
+    color: rgb(240, 237, 67);
+    flex-direction: column;
+    background-color:transparent;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 4px 4px  10px rgb(255, 221, 51);  
+    box-shadow: 2px 2px  10px rgba(164, 231, 40, 0.55);
+    
+    
+}
+.correct{
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font: size 10px;
+    font-family: italic;
+    color: #fccf2f;
+    text-shadow:1px 1px 3px yellow; 
+    font-size: 17px;
+    background-size: cover;
+    background-image: url(https://thumbs.gfycat.com/BarrenSpeedyHart-size_restricted.gif);
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    
+  
+
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: italic;
+    color: #000000;
+    font-size:18px;
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+    background-size: cover;
+    background-color:rgba(0, 0, 0, 0.819);
+    text-shadow:1px 1px 5px rgb(248, 219, 52); 
+    box-shadow:1px 1px 10px rgb(225, 225, 18); 
+    font-weight:bolder;
+    
+  }
+  
+  .btn:hover {
+    background: #8fe72b;
+    background-image: -webkit-linear-gradient(top, #58a510, #54c022);
+    background-image: -moz-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: -ms-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: -o-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: linear-gradient(to bottom, #f2f2b1, #f3ff99);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .h1{
+    background-color:rgba(0, 0, 0, 0.819);
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 4px 4px 10px rgba(247, 242, 101, 0.55);    
+    font-family: italic;
+    text-shadow:1px 1px 5px yellow;
+    
+  }
+
+  .types{
+   
+    border-radius: 5px;
+    padding: 0.8px;
+    box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 0.55);    
+    font-family: italic;
+    display: inline-block;
+    flex-direction: row;
+  }
+
+  .btnx{
+      
+      color: rgb(144, 140, 23);
+      
+  }
+  .tipos{
+      display: flex;
+      flex-direction: row;
+      
+  }
+  .adv{
+    background-color: rgb(15, 14, 14);
+    color: rgba(16, 15, 15, 0.685);
+    padding: 5px;
+    border-radius: 5px;
+   
+  }
+  .select{
+    background-size: cover;
+    color: #f2e230;
+    text-shadow:1px 1px 5px yellow;
+    cursor: pointer;
+    font-size: 15px;
+    display:inline-block;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    border-style: groove;
+    box-shadow:1px 1px 10px rgb(225, 225, 18); 
+    font-weight:bolder;
+    background-color: rgb(0, 0, 0);
+    
+  }
+
+  .correct:hover{
+    background: #8fe72b;
+    background-image: -webkit-linear-gradient(top, #58a510, #54c022);
+    background-image: -moz-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: -ms-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: -o-linear-gradient(top, #f2f2b1, #f3ff99);
+    background-image: linear-gradient(to bottom, #f2f2b1, #f3ff99);
+    text-decoration: none;
+    cursor: pointer;
+    color: #000000;
+
+  }
+  .tex{
+   background-color: rgb(1, 1, 1);
+   border-top: transparent;
+   border-bottom:3px solid rgb(222, 106, 11) ;
+   border-left: 1px solid rgb(237, 208, 18);
+   box-shadow: 1px 1px 2px rgb(232, 209, 10);
+  }
+  .texinput{
+    background-color: transparent;
+    color: #f2e230;
+    align-items: flex-end;
+    border-top: transparent;
+    border-bottom:transparent ;
+    border-left: transparent;
+    border-right:transparent;
+    margin-left: 0%;
+  }

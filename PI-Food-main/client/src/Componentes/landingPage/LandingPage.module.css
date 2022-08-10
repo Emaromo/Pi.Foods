@@ -1,0 +1,43 @@
+
+
+
+ 
+.wlc{
+  color:#02061b;
+  position:relative;
+  font-size: 115px;
+  font-weight:bolder;
+  font-family: fantasy;
+  font-style:italic;
+  text-shadow: 3px 3px 31px rgb(242, 231, 30);
+  transform: translate(-110px,70%);
+  
+  
+    
+    
+}
+
+.btn {
+    cursor: pointer;
+    border-radius: 15px;
+    font-style:  menu;
+    background-size: 50% 50%;
+    background-image: url("https://i.giphy.com/media/3o7aCR107yiLHLKFuU/giphy.gif");
+    background-size: cover;
+    color: #000000;
+    text-shadow:3px 3px 13px rgb(255, 220, 44);
+    font-size: 30px;
+    font-weight:bolder;
+    padding: 9px 29px 9px 29px;
+    transform: translate(-110px,180%);  
+    box-shadow: 3px 3px 13px rgb(255, 220, 44);
+  }
+  
+  .btn:hover {
+    color:#c09c0c;
+    transition: .3s;
+    transform: scaleX(50px);
+    
+  
+
+  }

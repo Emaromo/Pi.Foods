@@ -1,0 +1,40 @@
+.h3{
+  font-size: 20px;
+  height: 20px;
+}
+.searchBox{
+  padding: 30px 70px; 
+  
+  
+}
+
+
+.searchBtn
+{
+float: right;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background-image: url("https://img1.picmix.com/output/stamp/normal/3/0/3/2/1272303_cc528.gif");
+background-size: cover;
+background-size: cover;
+display: flex;
+transform: translate(-780px,-10%);
+justify-content: center;
+align-items: center;
+cursor: pointer;
+box-shadow: 1px 1px 10px rgba(251, 224, 17, 0.881);
+}
+.searchTxt{
+ background: scroll;
+ border-top: 3px solid rgb(222, 193, 11);
+ border-bottom:3px solid rgb(222, 106, 11) ;
+ border-left: 5px solid rgb(2, 2, 2);
+ border-right: 5px solid rgb(2, 2, 2);
+ box-shadow: 1px 1px 30px rgb(232, 209, 10);
+ height: 20px;
+ width: 250px;
+ color: rgb(255, 254, 240);
+ text-shadow: rgb(0, 0, 0);
+ 
+}

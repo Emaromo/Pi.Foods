@@ -1,0 +1,23 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    font-size: 30px;
+    
+}
+.button{
+ cursor: pointer;
+ text-decoration: none;
+ border-radius: 50%;
+ font-weight:1000;
+ text-shadow: 1px 1px 10px rgb(239, 239, 15);
+
+ box-shadow: 1px 1px 1px rgba(3, 3, 3, 0.299)
+ 
+}
+.paginado ul button.active {
+    background-color: #2b2b2b;
+    color: #c2c5aa;
+  }

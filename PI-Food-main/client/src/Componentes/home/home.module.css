@@ -1,0 +1,150 @@
+.btn{
+    transform: translate(500px, 90%);
+    border-top: 3px solid rgb(249, 249, 12);
+    border-bottom:3px solid  rgb(249, 249, 12) ;
+    border-left: 5px solid rgb(2, 2, 2);
+    border-right: 5px solid rgb(2, 2, 2);
+    color:rgb(236, 226, 45);
+    font-weight: bold;
+    height: 50px;
+    width:90px;
+    border-radius: 50%; 
+    background-size: cover;
+    background-image: url(https://ae2scommunications.com/wp-content/uploads/2018/07/loading.gif);   
+}
+.btn:hover{
+    color:#ffff11;
+    transition: .3s;
+    box-shadow: 1px 1px 14px rgb(255, 255, 75);
+    text-shadow: 1px 1px 4px rgb(255, 255, 75);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/946/606/non_2x/abstract-dark-black-color-background-overlapping-layers-with-yellow-neon-glowing-light-free-vector.jpg);
+    
+}
+.az{
+    background-color: rgb(0, 0, 0);
+    border-left: 5px solid rgb(255, 248, 47);
+    border-right: 5px solid  rgb(255, 248, 47);
+    color:rgb(232, 217, 19);
+    font-family: fantasy;
+    font-style:italic;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 20%;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0) ;
+     box-shadow: 1px 1px 10px rgb(137, 231, 13) ;
+    background-size: cover;
+    text-align: center;
+    transform: translate(300px,-204%);
+    background-image: url(https://thumbs.gfycat.com/FrailImaginaryHedgehog-size_restricted.gif);
+    
+}
+.score{
+    background-color: rgb(0, 0, 0);
+    border-left: 5px solid rgb(255, 248, 47);
+    border-right: 5px solid  rgb(255, 248, 47);
+    color:rgb(232, 217, 19);
+    border-radius: 20%;
+    font-family: fantasy;
+    font-style:italic;
+    height: 50px;
+    text-align: center;
+    width: 150px;
+    font-size: 20px;
+    box-shadow: 1px 1px 10px rgb(137, 231, 13) ;
+    transform: translate(-10px, -305%);
+    background-size: cover;
+    background-image: url(https://thumbs.gfycat.com/FrailImaginaryHedgehog-size_restricted.gif);
+}
+.TypeDiets{
+    border-radius: 20%;
+    border-left: 5px solid rgb(255, 248, 47);
+    border-right: 5px solid  rgb(255, 248, 47);
+    color:rgb(232, 217, 19); 
+    
+    font-family: fantasy;
+    font-style:italic;
+    height: 50px;
+    text-align: center;
+    width: 150px;
+    font-size: 20px;
+    box-shadow: 1px 1px 10px rgb(137, 231, 13) ;
+    transform: translate(-300px,-410%);
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://thumbs.gfycat.com/FrailImaginaryHedgehog-size_restricted.gif);
+   
+
+}
+.tex{
+  
+    color: black;
+}
+.cardArea
+{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  transform:translateY(-100px);
+  
+  
+
+  /* max-width: 1600px;  */
+}
+.tex{
+    color: black;
+}
+.create{
+    border-left: 5px solid rgb(255, 248, 47);
+    border-right: 5px solid  rgb(255, 248, 47);
+    color:rgb(232, 217, 19); 
+    height: 50px;
+    font-family: fantasy;
+    font-style:italic;
+    width: 150px;  
+    font-size: 20px;
+    text-shadow:1px 1px 5px rgb(0, 0, 0) ;
+    border-radius: 20%;
+    box-shadow: 1px 1px 10px rgb(165, 244, 9) ;
+    background-size: cover;
+    text-align: center;
+    transform: translate(700px,-10%);
+    background-image: url("https://thumbs.gfycat.com/BarrenSpeedyHart-size_restricted.gif");
+}
+.create:hover{
+    color:#ffff11;
+    transition: .3s;
+    box-shadow: 1px 1px 14px rgb(255, 255, 75);
+    text-shadow: 1px 1px 4px rgb(255, 255, 75);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/946/606/non_2x/abstract-dark-black-color-background-overlapping-layers-with-yellow-neon-glowing-light-free-vector.jpg);
+    
+}
+.back{
+    border-left: 5px solid rgb(255, 248, 47);
+    border-right: 5px solid  rgb(255, 248, 47);
+    color:rgb(232, 217, 19); 
+    text-shadow:1px 1px 5px rgb(0, 0, 0) ;
+    font-family: fantasy;
+    font-style:italic;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 20%;
+    box-shadow: 1px 1px 10px rgb(165, 244, 9) ;
+    text-align: center;
+    transform: translate(-700px,-104%);
+    background-image: url("https://thumbs.gfycat.com/BarrenSpeedyHart-size_restricted.gif");
+    background-size: cover;
+}
+.back:hover{
+    color:#ffff11;
+    transition: .3s;
+    box-shadow: 1px 1px 14px rgb(255, 255, 75);
+    text-shadow: 1px 1px 4px rgb(255, 255, 75);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/946/606/non_2x/abstract-dark-black-color-background-overlapping-layers-with-yellow-neon-glowing-light-free-vector.jpg);
+    
+}
+
+

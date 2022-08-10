@@ -1,0 +1,43 @@
+.nav{
+  display: flex;
+  align-items: center;
+  height: 70px;
+  background-color: #00000051;
+}
+
+.nav .ul .li {
+  list-style-type: none;
+  display: flex;
+  padding: 100px;
+  height: 70px;
+}
+
+.a{
+  padding: 0px 690px;
+  
+  
+}
+
+/* .a:hover{
+  color:  rgb(119, 200, 57);
+  transform: scale(1.3);
+  transition: 1s;
+} */
+
+.home{
+ 
+  font-size: 50px;
+  color:#000000;
+  font-weight:bolder;
+  font-family: fantasy;
+  font-style:italic;
+  letter-spacing: px;
+  text-decoration: none;
+  text-shadow: 3px 3px 10px rgb(190, 181, 5);
+  
+
+}
+  
+
+    
+    
